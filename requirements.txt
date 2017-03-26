@@ -113,7 +113,6 @@ sphinx==1.5.1
 spyder==3.1.2
 SQLAlchemy==1.1.5
 sympy==1.0
-tables==3.2.2
 toolz==0.8.2
 tornado==4.4.2
 traitlets==4.3.1
